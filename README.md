@@ -12,6 +12,7 @@ First search the list. If you can't find what you're looking for go ahead and [c
 # The List
 
 ## 💡 Idea
+- [Notion](https://notion.so) — A unified & collaborative workspace for your notes, wikis, and tasks. **Offers free plan.**
 ## 🔨 Prototyping
 - [Marvel](https://marvelapp.com) — Build out your mockups for sites and apps, gather feedback, test on devices. **Offers free plan.**
 
