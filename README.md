@@ -32,3 +32,4 @@ First search the list. If you can't find what you're looking for go ahead and [c
 ## 🤷‍♀️ Other
 - [Redirecto](https://redirecto.ashfame.com) - Redirections Management Service for old domains (with HTTPS support) or marketing purpose domains. [🚧](https://wip.chat/products/315) **Offers free plan (opening up free tier this week)**
 - [Hyperping](https://hyperping.io/) — Uptime and performance monitoring with detailed reporting, flexible alerting and more. [🚧](https://wip.chat/products/227) **Offers free plan.**
+- [HTTPS Cop](https://httpscop.com) - SSL Health Monitoring service alerts you when your certificate is close to expiration or when your SSL config is found to be weak / insecure [🚧](https://wip.chat/products/329) **Offers free plan**
