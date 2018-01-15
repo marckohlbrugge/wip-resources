@@ -20,5 +20,5 @@ First search the list. If you can't find what you're looking for go ahead and [c
 ## 📈 Marketing
 ## 📣 Sales
 ## 🔬 User feedback (qualitative)
-## 📊 Analytics (quantative)
+## 📊 Analytics (quantitative)
 ## 🤷‍♀️ Other
