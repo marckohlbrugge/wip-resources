@@ -11,4 +11,13 @@ First search the list. If you can't find what you're looking for go ahead and [c
 
 # The List
 
-- coming soon…
+## 💡 Idea
+## 🔨 Prototyping
+## 💻 Code
+## 🖌 Design
+## 🚀 Launch & PR
+## 💬 Peer feedback
+## 📈 Marketing
+## 📣 Sales
+## 🔬 User feedback (qualitative)
+## 📊 Analytics (quantative)
