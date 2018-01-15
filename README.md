@@ -20,6 +20,7 @@ First search the list. If you can't find what you're looking for go ahead and [c
 ## 🖌 Design
 - [Figma](https://figma.com) — Design, prototype, and gather feedback all in one place. All-platform design tool in the browser. **Offers free plan.**
 ## 🚀 Launch & PR
+- [Submit.co](http://submit.co/) — Big list of places where you can get press coverage for your startup.
 ## 💬 Peer feedback
 ## 📈 Marketing
 - [Sendy](https://sendy.co) — Send newsletters 100x cheaper with Amazon SES. Great alternative to Mailchimp.
