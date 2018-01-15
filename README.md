@@ -24,5 +24,6 @@ First search the list. If you can't find what you're looking for go ahead and [c
 ## 📣 Sales
 ## 🔬 User feedback (qualitative)
 - [Rayfeed](https://rayfeed.com) – Validate your product with easy to set up user testing. [🚧](https://wip.chat/products/21)
+- [Ask User](https://askuser.xyz) — Ask your users questions, get answers. Simple widget for collecting feedback. [🚧](https://wip.chat/products/317)
 ## 📊 Analytics (quantitative)
 ## 🤷‍♀️ Other
