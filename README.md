@@ -16,6 +16,7 @@ First search the list. If you can't find what you're looking for go ahead and [c
 ## 🔨 Prototyping
 - [Marvel](https://marvelapp.com) — Build out your mockups for sites and apps, gather feedback, test on devices. **Offers free plan.**
 ## 💻 Code
+- [WPStackPro](https://wpstackpro.com) - WordPress plugin(s) to run a SaaS (or MVP) off a WordPress install. Comes with barebones [Paddle](https://paddle.com/) payments integration. [🚧](https://wip.chat/products/353)
 - [Algorithmia](https://algorithmia.com) - Enable AI in applications
 ## 🖌 Design
 - [Figma](https://figma.com) — Design, prototype, and gather feedback all in one place. All-platform design tool in the browser. **Offers free plan.**
