@@ -29,3 +29,4 @@ First search the list. If you can't find what you're looking for go ahead and [c
 - [Ask User](https://askuser.xyz) — Ask your users questions, get answers. Simple widget for collecting feedback. [🚧](https://wip.chat/products/317) **Free during early access.**
 ## 📊 Analytics (quantitative)
 ## 🤷‍♀️ Other
+- [Redirecto](https://redirecto.ashfame.com) - Redirections Management Service for old domains (with HTTPS support) or marketing purpose domains. [🚧](https://wip.chat/products/315) **Offers free plan (opening up free tier this week)**
