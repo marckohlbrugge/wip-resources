@@ -13,6 +13,7 @@ First search the list. If you can't find what you're looking for go ahead and [c
 
 ## 💡 Idea
 - [Notion](https://notion.so) — A unified & collaborative workspace for your notes, wikis, and tasks. **Offers free plan.**
+- [Feedbear](https://www.feedbear.com/) - Collect feedback, prioritize product features to create the roadmap.
 
 ## 🔨 Prototyping
 - [Marvel](https://marvelapp.com) — Build out your mockups for sites and apps, gather feedback, test on devices. **Offers free plan.**
@@ -41,12 +42,15 @@ First search the list. If you can't find what you're looking for go ahead and [c
 
 ## 📈 Marketing
 - [Sendy](https://sendy.co) — Send newsletters 100x cheaper with Amazon SES. Great alternative to Mailchimp.
+- [QApop](https://www.qapop.com/) — Find relevant Quora questions to answer. **Offers free plan.**
 
 ## 📣 Sales
+- [Phantombuster](https://phantombuster.com/) - Automate linkedin outreach. **Offers free plan.**
 
 ## 🔬 User feedback (qualitative)
 - [Rayfeed](https://rayfeed.com) – Validate your product with easy to set up user testing. [🚧](https://wip.chat/products/21)
 - [Ask User](https://askuser.xyz) — Ask your users questions, get answers. Simple widget for collecting feedback. [🚧](https://wip.chat/products/317) **Free during early access.**
+- [Smartlook](https://www.smartlook.com/) — User recording to understand how they use the website.
 
 ## 📊 Analytics (quantitative)
 - [BugSnag](https://bugsnag.com) - Error reporting, monitoring & resolution
