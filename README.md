@@ -58,3 +58,4 @@ First search the list. If you can't find what you're looking for go ahead and [c
 - [Vultr](https://vultr.com) - VPS
 - [Linode](https://linode.com) - VPS
 - [Dokku](https://github.com/dokku/dokku) - Open-source Heroku-style hosting for VPS
+- [Tolgee](https://tolgee.io) - Translate your app to different languages **Offers free plan**
