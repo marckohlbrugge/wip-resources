@@ -36,6 +36,7 @@ First search the list. If you can't find what you're looking for go ahead and [c
 
 ## 🚀 Launch & PR
 - [Submit.co](http://submit.co/) — Big list of places where you can get press coverage for your startup.
+- [Launchpedia.co](https://launchpedia.co/) - A curated list of 50+ to promote your startup for free.
 
 ## 💬 Peer feedback
 
